@@ -32,7 +32,7 @@ I'm a **junior computer science Student** passionate about **mathematics**, **pr
 
 None but I promise there will be more blog posts coming soon about some interesting stuff.
 
-👇 *I love connecting with new people, so don't hesitate to reach out!* 
+*I love connecting with new people, so don't hesitate to reach out!* 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedchaouki/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oldsoulofmo)
