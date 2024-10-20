@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Chaouki ! 👋
 
-I'm a **junior computer science Student** passionate about **mathematics**, **programming** and many other things related to computer science and _MATHS_ 😃. I love to build stuff and enjoy the process of making things ! <br> 
+I'm a **junior computer science Student** passionate about **mathematics**, **programming** and many other things related to computer science and _maths_ 😃. I love to build stuff and enjoy the process of making things ! <br> 
 
   <p align="left">     
  <a href="https://github.com/oldsoulofmo?tab=followers">
@@ -27,15 +27,13 @@ I'm a **junior computer science Student** passionate about **mathematics**, **pr
 
 <br><br>
 
-## 🌐 Connect with Me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedchaouki/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oldsoulofmo)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medchaouki12@icloud.com)
-
 
 ## 📝 Latest Blog Posts
 
 None but I promise there will be more blog posts coming soon about some interesting stuff.
 
 *I love connecting with new people, so don't hesitate to reach out!*
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedchaouki/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oldsoulofmo)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medchaouki12@icloud.com)
