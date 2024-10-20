@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Chaouki ! 👋
 
-I'm a **junior computer science Student** passionate about **mathematics**, **programming** and many other things related to computer science and _maths_ 😃. I love to build stuff and enjoy the process of making things ! <br> 
+I'm a **junior computer science Student** passionate about **mathematics**, **programming** and many other things related to computer science and _maths_ 😃. I love to build cool stuff and enjoy the process of making things ! <br> 
 
   <p align="left">     
  <a href="https://github.com/oldsoulofmo?tab=followers">
