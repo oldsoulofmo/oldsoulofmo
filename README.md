@@ -1,4 +1,5 @@
-# Hi there, I'm Mohammed Chaouki ! 👋
+# 👨🏻‍💻 Mohammed Chaouki 
+**`Digital Craftsman (Developer)`** **`aka oldsoulofmo`**
 
 I'm a **junior computer science Student** passionate about **mathematics**, **programming** and many other things related to computer science and _maths_ 😃. I love to build cool stuff and enjoy the process of making things ! <br> 
 
