@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Mohammed Chaouki 
 **`Digital Craftsman (Developer)`** **`aka oldsoulofmo`**
 
-Welcome to my GitHub profile!<br> I am a junior Computer Science student passionate about coding and programming. I have a deep love for mathematics, and I enjoy exploring its connection to computer science. In my free time, I indulge in reading literature, especially works by authors like Dostoevsky, Kafka, and Albert Camus. Through my projects, I aim to blend my interests in coding, mathematics, and literature to create meaningful solutions. Finally, I love to build cool stuff and enjoy the process of creating things ! <br> 
+Welcome to my GitHub profile!<br><br> I am a junior Computer Science student passionate about coding and programming. I have a deep love for mathematics, and I enjoy exploring its connection to computer science. In my free time, I indulge in reading literature, especially works by authors like Dostoevsky, Kafka, and Albert Camus. Through my projects, I aim to blend my interests in coding, mathematics, and literature to create meaningful solutions. Finally, I love to build cool stuff and enjoy the process of creating things ! <br> 
 
   <p align="left">     
  <a href="https://github.com/oldsoulofmo?tab=followers">
