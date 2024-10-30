@@ -31,7 +31,8 @@ Welcome to my GitHub profile!<br><br> I am a junior Computer Science student pas
 
 ## 📝 Latest Blog Posts
 
-None but I promise there will be more blog posts coming soon about some interesting stuff.
+[Method parameters, understanding method parameter modifiers. (c#)](https://yourbearblog.bearblog.dev/post-url) 
+
 
 *I love connecting with new people, so don't hesitate to reach out!* 
 
